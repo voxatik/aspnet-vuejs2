@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+@import "~font-awesome/css/font-awesome.css";
+
+$font-family-sans-serif: "Raleway", sans-serif;
+
+@import "~bootstrap/scss/bootstrap";
+
+@import '~bootstrap-vue/dist/bootstrap-vue.css';
+
+#main-content {
+    margin-top: 71px;
+}
