@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Tyrone Mathews",
+    "classifications": [ "MVC", "Pages" ],
+    "identity": "VoxAtik.AspNetVuejs2Template.CSharp",
+    "name": "AspNet Vuejs Bootstrap Application",
+    "shortName": "aspnet-vuejs2"
+  }
